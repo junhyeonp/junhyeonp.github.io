@@ -1,0 +1,11 @@
+div {
+  float: left;
+}
+
+p {
+  display: inline-block;
+  color: white;
+  width: 400px;
+  margin-left: 20px;
+  line-height: 34px;
+}

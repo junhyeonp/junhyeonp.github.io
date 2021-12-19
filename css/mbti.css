@@ -1,0 +1,13 @@
+.content {
+  color: white;
+}
+
+div {
+  float: left;
+}
+
+li {
+  color: white;
+  margin-bottom: 20px;
+  font-size: 16px;
+}
